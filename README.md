@@ -35,17 +35,17 @@ Một **Kỹ sư Phần mềm** có thế mạnh về cả Frontend lẫn Backen
 
 ---
 
-### 📊 Thống kê hoạt động GitHub
+### 📊 Hoạt động & Kết nối GitHub
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub Profile" />
-  </a>
-  <a href="https://github.com?tab=repositories">
-    <img src="https://shields.io" alt="Repositories" />
-  </a>
-</p>
+*   🔗 **Trang cá nhân:** [Xem GitHub Profile của tôi](https://github.com)
+*   📦 **Kho lưu trữ:** [Danh sách toàn bộ dự án công nghệ](https://github.com?tab=repositories)
+*   📈 **Đóng góp:** [Lịch sử hoạt động và các đóng góp (Contributions)](https://github.com?tab=overview)
 
-<p align="center">
-  Hiển thị trực tiếp các thông số đóng góp của tôi qua các nút nhấn kết nối nhanh phía trên!
-</p>
+---
+
+### 🤝 Thông tin liên hệ (Contact)
+
+Nếu bạn muốn trao đổi về dự án hoặc cơ hội hợp tác, xin vui lòng kết nối với tôi qua:
+
+*   📧 **Email:** [dienpq@gmail.com](mailto:dienpq@gmail.com) *(Bạn hãy sửa lại địa chỉ Email thật của mình tại đây nhé)*
+*   💼 **LinkedIn:** [Kết nối trên LinkedIn](https://linkedin.com) *(Thay thế bằng link trang LinkedIn của bạn)*
