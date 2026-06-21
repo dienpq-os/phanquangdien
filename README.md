@@ -38,15 +38,12 @@ Một **Kỹ sư Phần mềm** có thế mạnh về cả Frontend lẫn Backen
 ### 📊 Thống kê hoạt động GitHub
 
 <p align="center">
-  <!-- Thẻ thống kê tổng thể - Sử dụng proxy CDN thay thế -->
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  
-  <!-- Thẻ thống kê các ngôn ngữ sử dụng nhiều nhất -->
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
+  <!-- Gọi trực tiếp file ảnh nội bộ, cam kết không bao giờ bị lỗi hoặc vỡ ảnh -->
+  <img src="generated/github-stats.svg" alt="GitHub Stats" height="180" />
+  <img src="generated/top-langs.svg" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục (Streak) -->
+  <!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục -->
   <img src="https://demolab.com" alt="GitHub Streak" height="180" />
 </p>
-
