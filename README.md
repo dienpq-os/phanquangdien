@@ -38,12 +38,14 @@ Một **Kỹ sư Phần mềm** có thế mạnh về cả Frontend lẫn Backen
 ### 📊 Thống kê hoạt động GitHub
 
 <p align="center">
-  <!-- Gọi trực tiếp file ảnh nội bộ, cam kết không bao giờ bị lỗi hoặc vỡ ảnh -->
-  <img src="generated/github-stats.svg" alt="GitHub Stats" height="180" />
-  <img src="generated/top-langs.svg" alt="Top Languages" height="180" />
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com?tab=repositories">
+    <img src="https://shields.io" alt="Repositories" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục -->
-  <img src="https://demolab.com" alt="GitHub Streak" height="180" />
+  Hiển thị trực tiếp các thông số đóng góp của bạn qua các nút nhấn kết nối nhanh phía trên!
 </p>
