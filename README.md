@@ -47,5 +47,5 @@ Một **Kỹ sư Phần mềm** có thế mạnh về cả Frontend lẫn Backen
 </p>
 
 <p align="center">
-  Hiển thị trực tiếp các thông số đóng góp của bạn qua các nút nhấn kết nối nhanh phía trên!
+  Hiển thị trực tiếp các thông số đóng góp của tôi qua các nút nhấn kết nối nhanh phía trên!
 </p>
