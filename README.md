@@ -47,5 +47,5 @@ Một **Kỹ sư Phần mềm** có thế mạnh về cả Frontend lẫn Backen
 
 Nếu bạn muốn trao đổi về dự án hoặc cơ hội hợp tác, xin vui lòng kết nối với tôi qua:
 
-*   📧 **Email:** [dienpq@gmail.com](mailto:dienpq@gmail.com) *(Bạn hãy sửa lại địa chỉ Email thật của mình tại đây nhé)*
-*   💼 **LinkedIn:** [Kết nối trên LinkedIn](https://www.linkedin.com/in/phan-quang-di%E1%BB%87n-26964171/) *(Thay thế bằng link trang LinkedIn của bạn)*
+*   📧 **Email:** [dienpq@gmail.com](mailto:dienpq@gmail.com)
+*   💼 **LinkedIn:** [Kết nối trên LinkedIn](https://www.linkedin.com/in/phan-quang-di%E1%BB%87n-26964171/)
