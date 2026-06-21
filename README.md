@@ -38,10 +38,14 @@ Một **Kỹ sư Phần mềm** có thế mạnh về cả Frontend lẫn Backen
 ### 📊 Thống kê hoạt động GitHub
 
 <p align="center">
+  <!-- Thẻ thống kê tổng thể sử dụng mirror proxy ổn định -->
   <img src="https://workers.dev" alt="GitHub Stats" height="180" />
+  
+  <!-- Thẻ thống kê các ngôn ngữ sử dụng nhiều nhất -->
   <img src="https://workers.dev" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="180" />
+  <!-- Thẻ hiển thị chuỗi ngày đóng góp liên tục (Streak) sử dụng endpoint dự phòng -->
+  <img src="https://demolab.com" alt="GitHub Streak" height="180" />
 </p>
