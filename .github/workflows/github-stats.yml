@@ -10,11 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Stats SVG
         uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: stats # <--- Bổ sung dòng bắt buộc này vào đây
           username: dienpq-os
           theme: tokyonight
           show_icons: true
@@ -27,3 +28,4 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || git commit -m "Updated local GitHub stats images"
           git push
+
